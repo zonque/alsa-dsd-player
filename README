@@ -1,0 +1,5 @@
+A simple test bed for ALSA DSD integration.
+
+The file parser and streaming code is really not nice, but it does the job.
+
+Released under the GPLv2.
